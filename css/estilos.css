@@ -6,6 +6,8 @@
 
 }
 
+
+
 .upin_navbar{
 
     background-color: rgba(255, 255, 255, 0.482)!important;
@@ -37,4 +39,36 @@
     background-color: rgba(0, 0, 0, 0.492);
     color: #fff;
     margin: auto;
+}
+
+.upinsombra hr{
+    border-top: 2px solid rgb(240, 84, 18);
+}
+
+.barr hr{
+    border-top: 2px solid rgba(51, 226, 31, 0.796);
+
+}
+
+
+/* 
+
+estilos primera seccion
+*/
+.fondo{
+
+    background-color: rgb(215, 246, 207);
+
+
+}
+
+.section{
+    margin: 100%;
+}
+
+.linea1 hr{
+    border-top: 2px solid rgb(240, 84, 18);
+}
+.linea2 hr{
+    border-top: 2px solid rgba(51, 226, 31, 0.796);
 }
