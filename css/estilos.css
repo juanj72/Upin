@@ -6,15 +6,19 @@
 
 }
 
-
+/*
+barra de navegacion
+*/
 
 .upin_navbar{
 
     background-color: rgba(255, 255, 255, 0.482)!important;
     
 }
+/*-----------------*/
 
-
+/*
+inicio index*/
 .upin1{
 
     height: 100vh;
@@ -51,6 +55,8 @@
 }
 
 
+
+
 /* 
 
 estilos primera seccion
@@ -62,13 +68,145 @@ estilos primera seccion
 
 }
 
-.section{
-    margin: 100%;
+.espaciado{
+
+    margin-top: 8%;
 }
+
+
+section h2{
+font-size: 50px;
+ 
+
+}
+
+
+
 
 .linea1 hr{
     border-top: 2px solid rgb(240, 84, 18);
 }
 .linea2 hr{
     border-top: 2px solid rgba(51, 226, 31, 0.796);
+}
+
+
+
+.columnasec1 div{
+  margin: auto;
+  margin-top: 5%;
+  
+  
+
+}
+
+.columnasec1 h5{
+  color: rgb(240, 84, 18);
+  font-size: 35px;
+     
+}
+
+.columnasec1 a{
+ position: relative;
+
+}
+
+/* 
+pie de pagina
+*/
+.pie_de_pagina{
+    margin: auto;
+    margin-top: 5%;
+    width: 100%;
+    background-color: rgb(165, 226, 157);
+}
+
+
+.pie_de_pagina .grupo-1{
+    width: 100%;
+    max-width: 1200px;
+    margin:auto ;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 50px;
+    padding: 45px 0px;
+
+
+}
+.pie_de_pagina .grupo-1 .box figure{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.pie_de_pagina .grupo-1 .box figure img{
+
+    width: 250px;
+
+}
+.pie_de_pagina .grupo-1 .box h2{
+
+    color: rgb(0, 0, 0);
+    margin-bottom: 25px;
+    font-size: 20px;
+}
+
+.pie_de_pagina .grupo-1 .box p{
+    color: #212121a5;
+    margin-bottom: 10px;
+
+
+
+}
+
+.pie_de_pagina .grupo-1 .red-social a{
+
+    display: inline-block;
+    text-decoration: none;
+    width: 45px;
+    height: 45px;
+    line-height: 45px;
+    color: #fff;
+    margin-right: 10px;
+    background-color: #2f9d1c;
+    border-radius: 100%;
+    text-align: center;
+    transition: all 300ms ease;
+
+}
+
+.pie_de_pagina .grupo-1 .red-social a:hover{
+    color:  rgb(254, 118, 33);
+}
+
+.pie_de_pagina .grupo-2{
+    color: rgb(0, 0, 0);
+    padding: 5px 10px;
+    text-align: center;
+    background-color: rgb(215, 246, 207);
+    
+}
+
+.pie_de_pagina .grupo-2 small{
+
+    font-size: 15px;
+}
+
+@media screen and (max-width:800px){
+
+    .pie_de_pagina .grupo-1{
+        width: 90%;
+      
+        grid-template-columns: repeat(1,1fr);
+        grid-gap: 30px;
+        padding: 35px 0px;
+    
+    
+    }
+
+    
 }
