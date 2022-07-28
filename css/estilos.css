@@ -13,7 +13,11 @@ barra de navegacion
 .upin_navbar{
 
     background-color: rgba(255, 255, 255, 0.482)!important;
+
     
+}
+.upin_navbar img{
+    border-radius: 100%;
 }
 /*-----------------*/
 
@@ -111,6 +115,37 @@ font-size: 50px;
 
 }
 
+/*
+seccion 2*/
+.seccion_img{
+
+    height: 100vh;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("../img/slide2.jpg");
+    position: relative;
+    padding: 10%;
+    margin-top: 200;
+    margin-bottom: 100px;
+
+}
+
+.seccion_img .row{
+
+    background-color:rgba(243, 230, 230, 0.87);
+    color: black;
+    padding: 2%;
+}
+.seccion_img img{
+    padding: 5%;
+}
+
+.seccion_img h2{
+    color: rgb(240, 84, 18);
+}
+
 /* 
 pie de pagina
 */
@@ -189,6 +224,10 @@ pie de pagina
     text-align: center;
     background-color: rgb(215, 246, 207);
     
+}
+.pie_de_pagina .grupo-1 img{
+    border-radius: 50%;
+
 }
 
 .pie_de_pagina .grupo-2 small{
