@@ -16,6 +16,19 @@ barra de navegacion
 
     
 }
+.letra{
+ font-size: 22px;
+ padding: 0 10px ;
+ margin-right: 10px;
+ margin-top: 20px;
+ border-radius: 6px;
+
+}
+.letra:hover{
+    background-color: rgb(255, 193, 92);
+    transition: 1s;
+}
+
 .upin_navbar img{
     border-radius: 100%;
 }
@@ -50,7 +63,7 @@ inicio index*/
 }
 
 .upinsombra hr{
-    border-top: 2px solid rgb(240, 84, 18);
+    border-top: 2px solid rgb(255, 108, 45);
 }
 
 .barr hr{
