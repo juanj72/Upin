@@ -10,6 +10,11 @@ body{
  /*
  barra de navegacion
  */
+
+ header{
+    position: absolute;
+    z-index: 100;
+ }
 .encabezado{
     background-color: rgb(13, 154, 70);
     height: 80px;
@@ -24,6 +29,7 @@ body{
     justify-content: space-between;
     max-width: 992px;
     margin: 0 auto;
+    
     
 }
 
@@ -74,7 +80,7 @@ body{
 
 @media(max-width:768px){
     body{
-        padding-top: 70px;
+        padding-top: 1px;
 
     }
     .encabezado{
