@@ -254,14 +254,14 @@ seccion 3
 */
 .seccion_img{
 
-    height: 150vh;
+    height: 800px;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     background-image: url("../img/llano.jpg");
     position: relative;
-    padding: 10%;
+    padding: 5%;
     margin-top: 5%;
     
 
@@ -282,3 +282,49 @@ seccion 3
     color: rgb(240, 84, 18);
 }
 
+
+.btn-whats{
+
+    position: fixed;
+    width: 55px;
+    height: 55px;
+    line-height: 55px;
+    bottom: 30px;
+    right: 30px;
+    background: #0df053;
+    color: #fff;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 30px;
+    box-shadow: 0px 1px 10px rgba(0,0,0,0.3);
+    z-index: 100;
+
+
+}
+/*
+pie de pagina
+*/
+
+.replahotel_cont_footer{
+    background-color: rgba(1,1,1,0.7);
+    padding: 10%;
+    color: #fff;
+    margin-top: 0px;
+
+}
+
+.replahotel_cont_footer a{
+
+    color: #fff;
+    text-decoration: none;
+    display: block;
+
+}
+
+      /*creditos*/
+
+      .creditos{
+
+        text-align: center;
+        padding: 5px 0 5px 0;
+      }
