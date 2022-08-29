@@ -283,7 +283,7 @@ seccion 3
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url("../img/llano.jpg");
+    background-image: url("../img/bgquine.jpg");
     position: relative;
     padding: 5%;
     margin-top: 5%;
@@ -325,6 +325,16 @@ seccion 3
 
 
 }
+
+/*
+seccion4
+*/
+
+.fondo_slide{
+    background-color: rgb(68, 172, 56);
+}
+
+
 /*
 pie de pagina
 */
