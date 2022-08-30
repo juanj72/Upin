@@ -1,0 +1,35 @@
+
+
+.seccion1quin{
+    padding: 9% 0 5% 10%;
+}
+.seccion1quin img{
+    margin-top: 75px;
+}
+
+.redir{
+    margin-bottom: 500px;
+    width: 100%;
+    background-color: aliceblue;
+}
+
+
+.replahotel_contenedor_sec_1{
+    padding: 5%;
+}
+
+.replahotel_contenedor_sec_1 hr{
+    border-top: 2px solid rgb(13, 154, 70)
+}
+
+.replahotel_contenedor_sec_1 h2{
+   font-size: 200%;
+   color: rgb(255, 148, 27);
+
+}
+
+.replahotel_contenedor_sec_1 p{
+    font-size:  150%;
+}
+
+
