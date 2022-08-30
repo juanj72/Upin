@@ -331,7 +331,13 @@ seccion4
 */
 
 .fondo_slide{
-    background-color: rgb(68, 172, 56);
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin: 10% 0 0 10%;
+    width: 80%;
+    border-radius: 5px;
+    background-color: rgb(213, 255, 198);
+    box-shadow: 10px 10px 10px rgb(105, 156, 101);
 }
 
 
