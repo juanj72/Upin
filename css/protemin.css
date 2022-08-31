@@ -1,0 +1,63 @@
+
+
+.seccion_producto{
+    width: 100%;
+    margin: 3% 2% 2% 2%;
+    
+    
+    
+}
+
+
+.seccion_producto img{
+    width: 100%;
+}
+
+
+section{
+    width: 80%;
+    margin: 0 15% 10% 10%;
+    margin-top: 100px;
+}
+section h2{
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+
+section hr{
+    border-top: 1px solid rgb(92, 255, 157)
+}
+
+ .btn-con{
+    padding-top: 2%;
+    margin-bottom: 10px;
+    
+    
+    text-align: center;
+}
+.seccion_info{
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    margin: 3% 2% 2% 2%;
+    font-size: 20px;
+    justify-content: center;
+    
+}
+.seccion_info h3{
+    color: rgb(255, 140, 0);
+    text-align: center;
+}
+.seccion_info p{
+    margin-left: 5px;
+    width: 100%;
+}
+.seccion_info li{
+    font-size: 18px;
+}
+.cursi{
+    font-size: 20px;
+    color: rgb(254, 162, 42);
+}
+
+
