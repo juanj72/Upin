@@ -229,6 +229,8 @@ seccion 2
 
 
 
+
+
 .card{
     width: 100%;
     margin: 20px;
@@ -243,9 +245,14 @@ seccion 2
     box-shadow: 5px 5px 20px rgb(234, 128, 47);
     transform: translateY(-3%);
 }
-.card img{
-    width: 100%;
+.card .uplec{
+    width: 50%;
     
+    
+    
+}
+.card figure{
+    text-align: center;
 }
 
 .card .contenido{

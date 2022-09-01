@@ -3,6 +3,7 @@
 .seccion_producto{
     width: 100%;
     margin: 3% 2% 2% 2%;
+    text-align: center;
     
     
     
@@ -12,11 +13,13 @@
 .seccion_producto img{
     width: 100%;
 }
-
+#leche{
+    width: 70%;
+}
 
 section{
     width: 80%;
-    margin: 0 15% 10% 10%;
+    margin: 0 15% 10% 8%;
     margin-top: 100px;
 }
 section h2{
@@ -58,6 +61,11 @@ section hr{
 .cursi{
     font-size: 20px;
     color: rgb(254, 162, 42);
+}
+.composicion{
+    font-size: 250%;
+    color: rgb(255, 171, 68);
+    margin-bottom: 10%;
 }
 
 
