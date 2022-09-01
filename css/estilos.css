@@ -245,8 +245,9 @@ seccion 2
 }
 .card img{
     width: 100%;
-    height: 100%;
+    
 }
+
 .card .contenido{
     padding: 15px;
     text-align: center;
