@@ -8,7 +8,9 @@
     
     
 }
-
+.titutabla{
+    color: rgb(254, 199, 88);
+}
 
 .seccion_producto img{
     width: 100%;
@@ -19,7 +21,7 @@
 
 section{
     width: 80%;
-    margin: 0 15% 10% 8%;
+    margin: 0px 20% 5% 8%;
     margin-top: 100px;
 }
 section h2{
