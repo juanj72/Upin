@@ -5,3 +5,8 @@ const navMenu=document.querySelector(".nav-menu")
 navToggle.addEventListener("click",()=>{
     navMenu.classList.toggle("nav-menu-visible");
 })
+
+
+(function(){
+    AOS.init();
+}());
