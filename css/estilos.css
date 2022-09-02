@@ -255,6 +255,12 @@ seccion 2
     
     
 }
+
+.card .upazufre{
+    width: 120%;
+    margin-top: 30px;
+    margin-bottom: 25PX;
+}
 .card figure{
     text-align: center;
 }
