@@ -109,7 +109,7 @@ body{
         top: 60px;
         width: 100%;
         padding: 20px 0;
-
+        opacity: 0.75;
         height: calc(100% - 60px);
         overflow-y: auto;
         left: 100%;
