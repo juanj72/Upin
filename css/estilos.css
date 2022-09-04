@@ -309,6 +309,34 @@ seccion 3
 
 }
 
+/*seccion recomendaciones*/
+.seccion_img2{
+    height: 1370px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("../img/girolando2.jpg");
+    position: relative;
+    padding: 5%;
+    margin-top: 5%;
+
+}
+.seccion_img2 .row{
+    background-color:rgba(243, 230, 230, 0.87);
+    color: black;
+    padding: 2%;
+    padding-top: 50px;
+
+}
+
+.seccion_img2 h2{
+    color: rgb(240, 84, 18);
+
+}
+
+
+
 .seccion_img .row{
 
     background-color:rgba(243, 230, 230, 0.87);
