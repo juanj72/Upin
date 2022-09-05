@@ -311,7 +311,8 @@ seccion 3
 
 /*seccion recomendaciones*/
 .seccion_img2{
-    height: 1370px;
+    height: 1500px;
+    
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -320,6 +321,7 @@ seccion 3
     position: relative;
     padding: 5%;
     margin-top: 5%;
+    
 
 }
 .seccion_img2 .row{
