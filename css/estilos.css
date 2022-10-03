@@ -41,6 +41,7 @@ body{
 }
 
 .nav-menu-link{
+    text-decoration: none;
     color: rgb(255, 255, 255);
     text-decoration: none;
     padding: 8px 12px;
@@ -68,6 +69,7 @@ body{
     width:max-content;
 
 }
+
 
 .nav-menu-link:hover{
     background-color: rgb(255, 170, 50);
