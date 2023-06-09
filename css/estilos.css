@@ -75,7 +75,7 @@ body{
 
 .nav-menu-link:hover{
     text-decoration: none;
-    background-color: rgb(255, 170, 50);
+    background-color: #ff7923;
     color: rgb(0, 0, 0);
     transition: 0.7s;
 }
@@ -127,7 +127,7 @@ body{
     }
     .nav-menu-link:hover{
         background: none;
-        color: rgb(255, 170, 50); 
+        color: #ff7923; 
 
     }
     .nav-toggle{
@@ -186,7 +186,7 @@ imagen principal inicio
 .banner-text h1{
     font-size: 40px;
     margin-bottom: 30px;
-    color: rgb(255, 136, 0);
+    color: #ff7923;
 }
 
 .banner-text h3{
@@ -252,7 +252,7 @@ seccion 2
     transition: all 400ms ease;
 }
 .card:hover{
-    box-shadow: 5px 5px 20px rgb(234, 128, 47);
+    box-shadow: 5px 5px 20px #ff7923;
     transform: translateY(-3%);
 }
 .card .uplec{
@@ -290,10 +290,10 @@ seccion 2
 }
 
 .titulo hr{
-    border-top: 2px solid rgb(255, 136, 0);
+    border-top: 2px solid #ff7923;
 }
 .card .contenido h3{
-    color: rgb(255, 136, 0);
+    color: #ff7923;
     font-weight: 400;
     margin-bottom: 15px;
 }
@@ -342,7 +342,7 @@ seccion 3
 }
 
 .seccion_img2 h2{
-    color: rgb(240, 84, 18);
+    color: #ff7923;
 
 }
 
@@ -362,7 +362,7 @@ seccion 3
 }
 
 .seccion_img h2{
-    color: rgb(240, 84, 18);
+    color: #ff7923;
 }
 
 
@@ -383,6 +383,10 @@ seccion 3
     z-index: 100;
 
 
+}
+.btn-whats:hover{
+    background-color: #ff7923;
+    color: #0df053;
 }
 
 /*
@@ -407,7 +411,7 @@ pie de pagina
 .replahotel_cont_footer{
     background-color:  rgb(217, 255, 221);
     padding: 10%;
-    color: rgb(240, 84, 18);
+    color: #ff7923;
     margin-top: 0px;
     
 
