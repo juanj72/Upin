@@ -419,6 +419,11 @@ pie de pagina
 
 }
 
+footer h2,h3{
+text-transform: uppercase;
+
+}
+
 .replahotel_cont_footer a{
 
     color: rgb(3, 3, 3);
