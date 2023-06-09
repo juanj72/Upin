@@ -61,9 +61,15 @@ section hr{
 .seccion_info li{
     font-size: 18px;
 }
+
+.seccion_info h3{
+    text-transform: uppercase;
+}
+
 .cursi{
     font-size: 20px;
     color: rgb(254, 162, 42);
+    text-transform: uppercase;
 }
 .composicion{
     font-size: 250%;
